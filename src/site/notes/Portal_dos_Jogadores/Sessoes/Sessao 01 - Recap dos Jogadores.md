@@ -267,7 +267,7 @@ E sobreviver à casa.
 - A família Durst escondia alguma prática ritualística.
 - Existe uma figura chamada Strahd associada à carta encontrada.
 - O mapa da biblioteca não mostra o mundo conhecido.
-- A partitura para Walter pode estar ligado a história.
+- A partitura para Walter pode estar ligada ao ritual.
 - O livro em branco reagiu ao toque de Oryn com fragmentos de cântico, círculo e sacrifício.
 
 ---
