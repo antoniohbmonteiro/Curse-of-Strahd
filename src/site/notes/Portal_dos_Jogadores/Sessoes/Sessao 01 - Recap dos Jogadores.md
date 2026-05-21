@@ -10,6 +10,54 @@
 
 ---
 
+## Resumo rápido
+
+- Vocês foram reunidos pela névoa diante de uma mansão antiga.
+- Rose e Thorn pediram ajuda por causa de um monstro dentro da casa.
+- A névoa impediu a saída e empurrou o grupo para dentro.
+- A casa reagiu de formas impossíveis: lareira, jantar servido sozinho, sino tocando sem mãos, passos no andar de cima e objetos retornando ao lugar.
+- Na biblioteca, vocês encontraram uma sala secreta com documentos, uma carta mencionando Strahd e pistas de um ritual envolvendo Walter.
+- A última grande pista foi uma partitura infantil escrita **“Para Walter dormir”** e um livro em branco que revelou fragmentos sobre cântico, círculo e algo que “um deve...” fazer.
+
+---
+
+## Onde paramos
+
+Vocês estão no **segundo andar da Casa Durst**, depois de explorar a biblioteca, a sala secreta e a sala de música.
+
+A partitura infantil está com o grupo.  
+O livro em branco respondeu ao toque de Oryn.  
+A casa continua silenciosa demais.
+
+Em algum lugar acima, a madeira rangeu.
+
+Um passo.  
+Depois outro.  
+E então nada.
+
+---
+
+## Objetivo atual
+
+Descobrir o que aconteceu com **Rose**, **Thorn** e **Walter**.
+
+E sobreviver à casa.
+
+---
+
+## Perguntas em aberto
+
+- Rose e Thorn estão vivos, mortos ou presos de alguma forma?
+- Onde está Walter?
+- O que aconteceu com a família Durst?
+- Quem ou o que é Strahd?
+- O que significa o cântico, o círculo e a frase “um deve...”?
+- A partitura **“Para Walter dormir”** deve ser tocada?
+- A casa está assombrada, viva ou sendo controlada por algo?
+- O mapa da biblioteca mostra outro continente, outro mundo ou outro tipo de prisão?
+
+---
+
 ## O que aconteceu
 
 Vocês foram arrancados de seus próprios caminhos pela **névoa**.
@@ -234,23 +282,66 @@ E Walter provavelmente está no centro disso.
 
 ## Relações e tensões do grupo
 
-A névoa reuniu vocês, mas isso não significa que vocês confiam uns nos outros.
+A névoa reuniu vocês, mas isso não significa que vocês são completos estranhos.
 
-**Yann** provocou Lionel sobre a morte do irmão, chamando atenção para rumores perigosos e cutucando uma ferida que claramente ainda sangra.
+Alguns rostos carregam lembranças, boatos, nomes de família ou histórias mal contadas. Outros são desconhecidos, mas já chegaram cercados de desconfiança.
 
-**Lionel** tentou manter postura, honra e liderança, mas deixou claro que esse assunto não deve ser tratado como piada.
+---
 
-**Oryn** carrega a sensação de que o portal que abriu tocou esse lugar, e que esse lugar o encontrou de volta.
+### Quem conhece quem
 
-**Svetlana** sente a ausência de luz e bondade naquele lugar, como se a casa fosse um buraco onde a fé chega abafada.
+| Personagem | Quem reconhece | Como conhece ou acha que conhece                                                                                                                                                                                                                                                             |
+| ---------- | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Oryn**   | **Lionel**     | Conhece Lionel por ligação com a casa Roarshield. Oryn foi o mago ligado ao portal contratado pela família dele. Talvez não fossem próximos, mas o nome e o rosto não são estranhos.                                                                                                         |
+| **Oryn**   | **Yann**       | Talvez tenha visto Yann no campo de batalha ou em movimentações da guerra, mas provavelmente sem uma conversa real entre os dois. É mais lembrança borrada do que relação.                                                                                                                   |
+| **Lionel** | **Oryn**       | Sabe quem Oryn é por causa do portal da casa Roarshield. Pode não conhecê-lo intimamente, mas entende que ele está ligado a um evento importante da sua família.                                                                                                                             |
+| **Lionel** | **Vet**        | Reconhece ela de algum lugar, mas não sabe exatamente de onde. Talvez de uma rua importante, de uma cerimônia pública, de um evento social ou até de um baile nobre. Só que há algo estranho: as vestes simples dela não combinam com a lembrança de alguém visto em um ambiente de nobreza. |
+| **Vet**    | **Lionel**     | Conhece Lionel muito bem de vista e reputação. Ele é um nome nobre demais para passar despercebido.                                                                                                                                                                                          |
+| **Vet**    | **Oryn**       | Sabe de Oryn por alto, principalmente por rumores e pela ligação dele com o portal. Não necessariamente o conhece pessoalmente.                                                                                                                                                              |
+| **Vet**    | **Dhorak**     | Sabe quem Dhorak é por algum motivo ainda desconhecido para o grupo. Ela não explicou isso.                                                                                                                                                                                                  |
+| **Dhorak** | **Kael**       | Conhece Kael por causa dos acontecimentos da arena e da perseguição à criatura. Os dois passaram pela névoa ligados pelo mesmo rastro de violência.                                                                                                                                          |
+| **Kael**   | **Dhorak**     | Conhece Dhorak pela arena e pela caçada à criatura. Dhorak não é apenas um desconhecido; é alguém que viu parte do mesmo horror.                                                                                                                                                             |
+| **Yann**   | **Oryn**       | Conhece por boatos, talvez por ter visto de longe no campo de batalha ou ouvido falar do mago ligado ao portal.                                                                                                                                                                              |
+| **Yann**   | **Lionel**     | Conhece os boatos sobre Lionel e a morte do irmão. E, como Yann é Yann, decidiu cutucar essa ferida logo de cara.                                                                                                                                                                            |
 
-**Dhorak** parece disposto a enfrentar a casa fisicamente, seja chutando portas, arrancando armas ou desafiando o que quer que sussurre nas paredes.
+---
 
-**Kael** observa com mentalidade de caçador. Para ele, ainda existe uma criatura a entender, rastrear e talvez eliminar.
+### Relações em jogo
+
+**Yann e Lionel**  
+Yann provocou Lionel sobre a morte do irmão, chamando atenção para rumores perigosos e cutucando uma ferida que claramente ainda sangra. Lionel tentou manter postura, honra e liderança, mas deixou claro que esse assunto não deve ser tratado como piada.
+
+**Oryn e Lionel**  
+Os dois estão ligados pela casa Roarshield e pelo portal. Mesmo que não tenham intimidade, existe uma história anterior entre eles. Oryn sabe que o portal tocou algo errado. Lionel sabe que Oryn fazia parte desse acontecimento.
+
+**Lionel e Vet**  
+Lionel reconhece Vet, mas não sabe exatamente de onde. Talvez tenha visto aquele rosto em uma rua importante, em uma cerimônia pública, em um evento social ou até em um baile nobre. Só que algo não encaixa: as vestes simples dela não combinam com a lembrança de alguém visto em um ambiente de nobreza.
+
+**Vet e Dhorak**  
+Vet sabe quem Dhorak é por algum motivo ainda desconhecido para o grupo. Ela não explicou isso, e por enquanto fica apenas como uma tensão silenciosa.
+
+**Dhorak e Kael**  
+Dhorak e Kael compartilham o horror da arena e da criatura que perseguiam. Eles não são necessariamente amigos, mas têm uma conexão prática: ambos viram algo que os outros ainda não entendem.
+
+**Kael e Lionel**  
+Kael observa o mundo como caçador. Lionel observa como alguém preso à honra. Se Kael tratar pessoas como “criaturas” ou “alvos”, Lionel tende a reagir. Essa diferença ainda não explodiu, mas já existe.
+
+**Oryn e Yann**  
+Yann trata Oryn com provocação e curiosidade. Oryn pode enxergar em Yann uma mistura irritante de imprudência, juventude e sobrevivência. Talvez Yann já tenha ouvido histórias demais sobre ele para separar verdade de boato.
+
+**Vet e a fé**  
+Vet sente a ausência de luz e bondade naquele lugar, como se a casa fosse um buraco onde a fé chega abafada. Isso a deixa mais cautelosa, mas também mais determinada a proteger quem ainda pode ser salvo.
+
+**Dhorak e a casa**  
+Dhorak parece disposto a enfrentar a casa fisicamente, seja chutando portas, arrancando armas ou desafiando o que quer que sussurre nas paredes. A casa já respondeu diretamente a ele.
+
+---
+
+### Estado do grupo
 
 O grupo ainda está se formando.
 
-Por enquanto, vocês têm um objetivo em comum:
+Há desconfiança, boatos, feridas abertas e histórias mal explicadas. Mas, por enquanto, todos têm um objetivo em comum:
 
 Entender o que aconteceu com Rose, Thorn e Walter.
 
@@ -318,3 +409,13 @@ Walter ainda não foi encontrado.
 Rose e Thorn ainda não foram salvos.
 
 E a casa ainda não mostrou tudo que guarda.
+
+---
+
+## Links úteis
+
+- [[Portal_dos_Jogadores/Sessoes/Diario das Sessoes\|Voltar ao Diário das Sessões]]
+- [[Portal_dos_Jogadores/00_Inicio\|Voltar ao início]]
+- [[Portal_dos_Jogadores/Pistas_e_Handouts/Itens e Pistas Encontradas\|Ver pistas encontradas]]
+- [[Portal_dos_Jogadores/Personagens/Personagens do Grupo\|Ver personagens do grupo]]
+
