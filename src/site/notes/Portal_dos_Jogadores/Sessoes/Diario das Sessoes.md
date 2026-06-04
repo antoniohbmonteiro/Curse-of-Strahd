@@ -14,6 +14,7 @@
 
 | Sessão | Título | Resumo |
 |---:|---|---|
+| 02 | [[Portal_dos_Jogadores/Sessoes/Sessao 02 - Recap dos Jogadores\|A Voz no Berço]] | O grupo toca a partitura de Walter, enfrenta uma armadura animada e uma vassoura, encontra Marta no quarto do berço e termina diante de dois pequenos esqueletos no sótão. |
 | 01 | [[Portal_dos_Jogadores/Sessoes/Sessao 01 - Recap dos Jogadores\|A Casa na Névoa]] | O grupo atravessa a névoa, encontra Rose e Thorn, entra na Casa Durst e descobre os primeiros sinais de ritual envolvendo Walter. |
 | 00 | [[Portal_dos_Jogadores/Sessoes/Sessao 00 - Recap dos Jogadores\|Setup e Entrada na Névoa]] | Apresentação da campanha, personagens, tom da aventura e os primeiros sinais da névoa. |
 
@@ -21,10 +22,10 @@
 
 ## Última sessão
 
-> [!summary] Sessão 01 — A Casa na Névoa
-> Vocês foram reunidos pela névoa diante de uma mansão antiga. Duas crianças pediram ajuda, a casa se mostrou viva demais para ser apenas uma casa, e documentos secretos revelaram os primeiros indícios de que a família Durst escondia algo terrível.
+> [!summary] Sessão 02 — A Voz no Berço
+> Vocês tocaram a partitura de Walter, ouviram a casa responder, enfrentaram objetos animados, encontraram Marta no quarto do berço e terminaram diante de dois pequenos esqueletos em um quarto trancado pelo lado de fora.
 >
-> **Ler agora:** [[Portal_dos_Jogadores/Sessoes/Sessao 01 - Recap dos Jogadores\|Sessão 01 — A Casa na Névoa]]
+> **Ler agora:** [[Portal_dos_Jogadores/Sessoes/Sessao 02 - Recap dos Jogadores\|Sessão 02 — A Voz no Berço]]
 
 ---
 
@@ -35,6 +36,9 @@
 
 2. **Sessão 01 — A Casa na Névoa**  
    Vocês se reuniram diante da Casa Durst, entraram por pressão da névoa e começaram a descobrir a tragédia de Rose, Thorn e Walter.
+
+3. **Sessão 02 — A Voz no Berço**  
+   Vocês tocaram a canção de Walter, subiram pela casa, enfrentaram uma armadura e uma vassoura animadas, acalmaram Marta e encontraram o quarto infantil trancado no sótão.
 
 ---
 

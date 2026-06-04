@@ -13,10 +13,10 @@
 
 ## Última sessão
 
-> [!summary] Sessão 01 — A Casa na Névoa
-> Vocês atravessaram a névoa, encontraram Rose e Thorn diante de uma mansão silenciosa, entraram na casa e descobriram os primeiros sinais da tragédia da família Durst.
+> [!summary] Sessão 02 — A Voz no Berço
+> Vocês tocaram a partitura de Walter, enfrentaram uma armadura animada, sobreviveram à vassoura mais perigosa da casa, encontraram Marta no quarto do berço e terminaram diante de dois pequenos esqueletos no sótão.
 >
-> **Ler recap:** [[Portal_dos_Jogadores/Sessoes/Sessao 01 - Recap dos Jogadores\|Sessão 01 — A Casa na Névoa]]
+> **Ler recap:** [[Portal_dos_Jogadores/Sessoes/Sessao 02 - Recap dos Jogadores\|Sessão 02 — A Voz no Berço]]
 
 ---
 
@@ -33,6 +33,7 @@
 
 ## Diário da campanha
 
+- [[Portal_dos_Jogadores/Sessoes/Sessao 02 - Recap dos Jogadores\|Sessão 02 — A Voz no Berço]]
 - [[Portal_dos_Jogadores/Sessoes/Sessao 01 - Recap dos Jogadores\|Sessão 01 — A Casa na Névoa]]
 - [[Portal_dos_Jogadores/Sessoes/Sessao 00 - Recap dos Jogadores\|Sessão 00 — Setup e Entrada na Névoa]]
 
