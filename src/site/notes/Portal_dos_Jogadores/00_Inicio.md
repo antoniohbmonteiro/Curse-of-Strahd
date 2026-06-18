@@ -13,10 +13,10 @@
 
 ## Última sessão
 
-> [!summary] Sessão 02 — A Voz no Berço
-> Vocês tocaram a partitura de Walter, enfrentaram uma armadura animada, sobreviveram à vassoura mais perigosa da casa, encontraram Marta no quarto do berço e terminaram diante de dois pequenos esqueletos no sótão.
+> [!summary] Sessão 03 — Os Ossos e o Porão
+> Vocês encontraram os verdadeiros espíritos de **Rose** e **Thorn**, descobriram **Biscuit**, deram descanso às crianças nas criptas, enfrentaram o **Sem Osso** no armário e quase perderam **Dhorak** para a criatura do poço.
 >
-> **Ler recap:** [[Portal_dos_Jogadores/Sessoes/Sessao 02 - Recap dos Jogadores\|Sessão 02 — A Voz no Berço]]
+> **Ler recap:** [[Portal_dos_Jogadores/Sessoes/Sessao 03 - Recap dos Jogadores\|Sessão 03 — Os Ossos e o Porão]]
 
 ---
 
@@ -33,6 +33,7 @@
 
 ## Diário da campanha
 
+- [[Portal_dos_Jogadores/Sessoes/Sessao 03 - Recap dos Jogadores\|Sessão 03 — Os Ossos e o Porão]]
 - [[Portal_dos_Jogadores/Sessoes/Sessao 02 - Recap dos Jogadores\|Sessão 02 — A Voz no Berço]]
 - [[Portal_dos_Jogadores/Sessoes/Sessao 01 - Recap dos Jogadores\|Sessão 01 — A Casa na Névoa]]
 - [[Portal_dos_Jogadores/Sessoes/Sessao 00 - Recap dos Jogadores\|Sessão 00 — Setup e Entrada na Névoa]]
