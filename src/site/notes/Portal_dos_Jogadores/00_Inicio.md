@@ -13,10 +13,10 @@
 
 ## Última sessão
 
-> [!summary] Sessão 03 — Os Ossos e o Porão
-> Vocês encontraram os verdadeiros espíritos de **Rose** e **Thorn**, descobriram **Biscuit**, deram descanso às crianças nas criptas, enfrentaram o **Sem Osso** no armário e quase perderam **Dhorak** para a criatura do poço.
+> [!summary] Sessão 04 — A Casa Ouviu
+> Vocês removeram a coisa que se movia dentro da veia de **Dhorak**, enfrentaram mortos-vivos e sombras no porão, leram a carta de **Elizabeth** e descobriram que **Walter** foi levado para baixo como oferta. O ritual não chamou **Strahd**. A carta diz que **a casa ouviu**.
 >
-> **Ler recap:** [[Portal_dos_Jogadores/Sessoes/Sessao 03 - Recap dos Jogadores\|Sessão 03 — Os Ossos e o Porão]]
+> **Ler recap:** [[Portal_dos_Jogadores/Sessoes/Sessao 04 - Recap dos Jogadores\|Sessão 04 — A Casa Ouviu]]
 
 ---
 
@@ -33,6 +33,7 @@
 
 ## Diário da campanha
 
+- [[Portal_dos_Jogadores/Sessoes/Sessao 04 - Recap dos Jogadores\|Sessão 04 — A Casa Ouviu]]
 - [[Portal_dos_Jogadores/Sessoes/Sessao 03 - Recap dos Jogadores\|Sessão 03 — Os Ossos e o Porão]]
 - [[Portal_dos_Jogadores/Sessoes/Sessao 02 - Recap dos Jogadores\|Sessão 02 — A Voz no Berço]]
 - [[Portal_dos_Jogadores/Sessoes/Sessao 01 - Recap dos Jogadores\|Sessão 01 — A Casa na Névoa]]
