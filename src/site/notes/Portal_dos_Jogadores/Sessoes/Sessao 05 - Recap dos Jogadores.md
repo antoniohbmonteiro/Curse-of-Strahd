@@ -200,6 +200,17 @@ Não estavam.
 
 ## 3. A cuba que queria sangue
 
+
+![Imagens/Sessao05_Altar_de_Sangue.png](/img/user/Portal_dos_Jogadores/Imagens/Sessao05_Altar_de_Sangue.png)
+
+> [!info] A cuba ritual
+> A inscrição dizia:
+>
+> **“Sangue abre o caminho.  
+> A casa recebe o que vive.”**
+
+
+
 Depois da criatura, o grupo encontrou uma sala com nichos, ossos pequenos, lâminas antigas e uma grade de ferro bloqueando o caminho.
 
 Ao lado da grade havia uma cuba escura presa à parede por garras de metal.
@@ -563,6 +574,14 @@ E algo começou a subir.
 ---
 
 ## 14. Lorghoth desperta
+
+
+![Imagens/Sessao05_Lorghoth.png](/img/user/Portal_dos_Jogadores/Imagens/Sessao05_Lorghoth.png)
+
+> [!danger] Lorghoth
+> Quando a carne foi negada, a água se abriu e **Lorghoth** despertou.
+
+
 
 Primeiro vieram as raízes.
 
@@ -1060,6 +1079,16 @@ E passou.
 ---
 
 ## 27. O escudo Roarshield se parte
+
+
+![Imagens/Sessao05_Escudo_Roarshield_Partido.png](/img/user/Portal_dos_Jogadores/Imagens/Sessao05_Escudo_Roarshield_Partido.png)
+
+> [!warning] O preço da fuga
+> O **escudo Roarshield** segurou a passagem tempo suficiente para todos atravessarem.
+>
+> Depois, se partiu em duas metades.
+
+
 
 Quando o último personagem atravessou, as paredes venceram.
 
