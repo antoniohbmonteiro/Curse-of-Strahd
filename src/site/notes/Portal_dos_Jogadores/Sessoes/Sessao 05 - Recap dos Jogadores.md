@@ -212,7 +212,7 @@ Acima, uma inscrição:
 > **Sangue abre o caminho.**  
 > **A casa recebe o que vive.**
 
-![[Portal_dos_Jogadores/Imagens/Sessao 05 - Altar de Sangue.png\|Portal_dos_Jogadores/Imagens/Sessao 05 - Altar de Sangue.png]]
+![Sessao05_Altar_de_Sangue.png](/img/user/Portal_dos_Jogadores/Imagens/Sessao05_Altar_de_Sangue.png)
 
 *O altar que exigia sangue — e revelou que a casa escolhia o que aceitava.*
 
@@ -593,7 +593,7 @@ Tudo unido numa massa enorme e impossível.
 >
 > Parecia algo que a casa cultivou no próprio ventre.
 
-![[Portal_dos_Jogadores/Imagens/Sessao 05 - Lorghoth.png\|Portal_dos_Jogadores/Imagens/Sessao 05 - Lorghoth.png]]
+![Sessao05_Lorghoth.png](/img/user/Portal_dos_Jogadores/Imagens/Sessao05_Lorghoth.png)
 
 *Lorghoth, erguendo-se da água e da carne acumulada sob a casa.*
 
@@ -1037,7 +1037,7 @@ Uma herança.
 
 Uma parte de quem ele era.
 
-![[Portal_dos_Jogadores/Imagens/Sessao 05 - Escudo Roarshield.png\|Portal_dos_Jogadores/Imagens/Sessao 05 - Escudo Roarshield.png]]
+![Sessao05_Escudo_Roarshield_Partido.png](/img/user/Portal_dos_Jogadores/Imagens/Sessao05_Escudo_Roarshield_Partido.png)
 
 *O escudo Roarshield — herança da família de Lionel, pouco antes de ser usado para manter a passagem aberta.*
 
