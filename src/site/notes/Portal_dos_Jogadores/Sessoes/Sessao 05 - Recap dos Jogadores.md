@@ -20,10 +20,10 @@
 > - Nas celas, o grupo encontrou **Bianca**, uma jovem que dizia ter sido presa por um aventureiro de perna quebrada.
 > - Na câmara ritual, o cântico passou a repetir: **“Um deve morrer.”**
 > - **Lionel** ofereceu o próprio sangue e ficou por um fio, mas a casa exigia uma morte.
-> - **Oryn** atingiu Bianca com eletricidade; o corpo dela craquelou e se desfez em pó.
+> - **Oryn** atingiu **Bianca** com eletricidade; o corpo dela craquelou e se desfez em pó.
 > - A casa rejeitou aquilo como sacrifício.
 > - **Lorghoth** despertou: uma massa de raízes, carne, ossos, mãos e o rosto de um bebê preso dentro dela.
-> - **Dhorak** foi engolido pela criatura e salvo quando Lionel ordenou: **“Solte.”**
+> - **Dhorak** foi engolido pela criatura e salvo quando **Lionel** ordenou: **“Solte.”**
 > - O grupo correu pela casa viva enquanto água, mãos, móveis, sangue, ossos e carne tentavam impedir a fuga.
 > - **Kael ficou a uma única falha da morte em dois momentos diferentes — e escapou dos dois no limite.**
 > - **Lionel** usou o escudo de sua família para travar a última passagem.
@@ -56,7 +56,7 @@
 > [!question] O que o grupo precisa fazer?
 > Atravessar o trecho final da casa.  
 > Chegar à porta da frente.  
-> Sair antes que Lorghoth ou a própria Casa Durst alcance vocês.
+> Sair antes que **Lorghoth** ou a própria Casa Durst alcance vocês.
 >
 > E fazer isso carregando um companheiro enfraquecido, poucos recursos e um escudo partido em dois.
 
@@ -66,13 +66,13 @@
 
 - O que exatamente é **Lorghoth**?
 - O rosto visto dentro da criatura era realmente **Walter**?
-- Walter ainda existe em algum sentido?
+- **Walter** ainda existe em algum sentido?
 - Por que a casa rejeitou o sangue de **Yann**?
-- Quem — ou o que — era Bianca?
+- Quem — ou o que — era **Bianca**?
 - Por que o cântico exigia uma morte?
 - A casa queria uma vítima específica ou apenas ver alguém escolher matar?
-- O aventureiro de perna quebrada realmente encontrou Bianca?
-- Lorghoth ficou preso atrás da passagem ou ainda está perseguindo o grupo?
+- O aventureiro de perna quebrada realmente encontrou **Bianca**?
+- **Lorghoth** ficou preso atrás da passagem ou ainda está perseguindo o grupo?
 - O grupo conseguirá sair antes que a casa crie mais um obstáculo?
 
 ---
@@ -82,13 +82,13 @@
 > [!tip] Estado importante
 > - A fuga **ainda não terminou**.
 > - **Kael** continua enfraquecido pela força roubada pelas sombras.
-> - Kael abandonou parte de seu equipamento para conseguir continuar.
+> - **Kael** abandonou parte de seu equipamento para conseguir continuar.
 > - **Lionel** está com as duas metades do escudo de família.
 > - O escudo não pode ser usado normalmente.
 > - **Oryn** recuperou as metades com Mão Mágica.
-> - **Dhorak** foi engolido por Lorghoth, mas voltou para o grupo.
+> - **Dhorak** foi engolido por **Lorghoth**, mas voltou para o grupo.
 > - **Bianca** se desfez em pó e pedaços quando foi atingida.
-> - O grupo viu o sangue de Yann ser rejeitado pela casa.
+> - O grupo viu o sangue de **Yann** ser rejeitado pela casa.
 > - A porta da frente está perto, mas a Casa Durst ainda está ativa.
 
 ---
@@ -97,11 +97,11 @@
 
 | Nome | O que vocês sabem |
 |---|---|
-| **Bianca** | Jovem pálida encontrada presa nas celas. Dizia ter sido levada para baixo por um aventureiro de perna quebrada. Quando Oryn a atingiu, o corpo dela craquelou e virou pó. |
+| **Bianca** | Jovem pálida encontrada presa nas celas. Dizia ter sido levada para baixo por um aventureiro de perna quebrada. Quando **Oryn** a atingiu, o corpo dela craquelou e virou pó. |
 | **Lorghoth** | Nome entoado quando a casa declarou que “a carne foi negada”. Uma massa monstruosa despertou da água. |
-| **Walter** | Um rosto de bebê apareceu dentro de Lorghoth. O grupo não sabe exatamente o que isso significa. |
-| **V / aventureiro ferido** | Os bilhetes anteriores falavam de alguém preso na casa. Bianca descreveu um homem com a perna quebrada. |
-| **A Casa** | Exigiu uma morte, rejeitou Bianca e despertou Lorghoth quando o grupo não entregou uma vítima viva. |
+| **Walter** | Um rosto de bebê apareceu dentro de **Lorghoth**. O grupo não sabe exatamente o que isso significa. |
+| **V / aventureiro ferido** | Os bilhetes anteriores falavam de alguém preso na casa. **Bianca** descreveu um homem com a perna quebrada. |
+| **A Casa** | Exigiu uma morte, rejeitou **Bianca** e despertou **Lorghoth** quando o grupo não entregou uma vítima viva. |
 
 ---
 
@@ -109,12 +109,12 @@
 
 | Item ou pista | Estado |
 |---|---|
-| **Escudo Roarshield** | Partido em duas metades e devolvido a Lionel. |
-| **Espada curta prateada** | Kael decidiu mantê-la durante a fuga. |
-| **Colar de Biscuit** | Kael decidiu não abandoná-lo. |
-| **Orbe escuro** | Permanece com Oryn, salvo conferência de inventário. |
-| **Livro de páginas negras** | Permanece com Oryn, salvo conferência de inventário. |
-| **Manto de proteção** | Permanece com Dhorak. |
+| **Escudo Roarshield** | Partido em duas metades e devolvido a **Lionel**. |
+| **Espada curta prateada** | **Kael** decidiu mantê-la durante a fuga. |
+| **Colar de Biscuit** | **Kael** decidiu não abandoná-lo. |
+| **Orbe escuro** | Permanece com **Oryn**, salvo conferência de inventário. |
+| **Livro de páginas negras** | Permanece com **Oryn**, salvo conferência de inventário. |
+| **Manto de proteção** | Permanece com **Dhorak**. |
 | **Sangue rejeitado de Yann** | Todos viram a cuba cuspir o sangue para fora. |
 | **Frase do altar** | “Sangue abre o caminho. A casa recebe o que vive.” |
 | **Frase do ritual** | “Um deve morrer.” |
@@ -147,11 +147,11 @@ A intenção foi excelente.
 A engenharia, nem tanto.
 
 > [!note] Soluções do grupo
-> Kael chegou a sugerir usar uma vassoura como apoio.
+> **Kael** chegou a sugerir usar uma vassoura como apoio.
 >
-> Dhorak decidiu que algumas ideias eram perigosas demais até para a Casa Durst.
+> **Dhorak** decidiu que algumas ideias eram perigosas demais até para a Casa Durst.
 
-**Lionel** orientou Kael a ficar mais atrás, atacar de longe e poupar forças.
+**Lionel** orientou **Kael** a ficar mais atrás, atacar de longe e poupar forças.
 
 Isso ajudou.
 
@@ -169,7 +169,7 @@ A primeira porta parecia apenas uma porta.
 
 Até abrir a boca.
 
-Ela se dobrou, revelou dentes e se fechou sobre Lionel.
+Ela se dobrou, revelou dentes e se fechou sobre **Lionel**.
 
 > [!danger] A emboscada
 > A porta era uma criatura.
@@ -189,7 +189,7 @@ A luta virou uma confusão apertada:
 
 A porta caiu chamuscada para fora do batente.
 
-Kael olhou para o caminho aberto e perguntou:
+**Kael** olhou para o caminho aberto e perguntou:
 
 > [!quote]
 > “E agora estamos na rua, né?”
@@ -251,20 +251,20 @@ A grade não reconheceu a oferta.
 
 Os sulcos não receberam nada.
 
-Oryn agarrou Yann pelo colarinho e perguntou:
+**Oryn** agarrou **Yann** pelo colarinho e perguntou:
 
 > [!quote]
 > “Quem é você?”
 
 Ele lembrou:
 
-- os olhos de Yann;
+- os olhos de **Yann**;
 - a sede estranha;
 - o gosto ruim da água;
 - o comportamento perto de sangue;
 - a reação do altar.
 
-Yann respondeu como Yann costuma responder:
+**Yann** respondeu como **Yann** costuma responder:
 
 com sarcasmo, desvio e nenhuma explicação útil.
 
@@ -272,17 +272,17 @@ com sarcasmo, desvio e nenhuma explicação útil.
 
 ## 5. Um gole quando ninguém deveria olhar
 
-Enquanto **Oryn** preparava uma magia, Yann voltou à cuba.
+Enquanto **Oryn** preparava uma magia, **Yann** voltou à cuba.
 
 Passou a mão nos restos de sangue.
 
 Levou os dedos à boca.
 
-Quando Oryn abriu os olhos, Yann fez sinal de silêncio.
+Quando **Oryn** abriu os olhos, **Yann** fez sinal de silêncio.
 
 Não funcionou.
 
-Oryn segurou o pulso dele e tentou sentir o coração.
+**Oryn** segurou o pulso dele e tentou sentir o coração.
 
 Havia batimento.
 
@@ -291,9 +291,9 @@ Mas parecia mais lento do que deveria.
 A discussão chegou à pergunta que estava pairando no corredor:
 
 > [!question]
-> Yann é um vampiro?
+> **Yann** é um vampiro?
 
-Yann negou.
+**Yann** negou.
 
 Disse que vampiros nem existiam.
 
@@ -312,7 +312,7 @@ O grupo encontrou uma jovem extremamente pálida, presa por correntes.
 
 Ela se apresentou como **Bianca**.
 
-Bianca parecia:
+**Bianca** parecia:
 
 - jovem;
 - delicada;
@@ -330,7 +330,7 @@ Os demais decidiram conversar primeiro.
 
 ## 7. A história de Bianca
 
-Bianca disse que havia fugido da névoa e entrado na casa.
+**Bianca** disse que havia fugido da névoa e entrado na casa.
 
 Lá dentro, encontrou um homem usando roupa de aventureiro.
 
@@ -343,7 +343,7 @@ Segundo ela, o homem disse:
 
 Depois a levou para baixo e a prendeu.
 
-Bianca não sabia exatamente quanto tempo havia passado.
+**Bianca** não sabia exatamente quanto tempo havia passado.
 
 Talvez um dia.
 
@@ -353,18 +353,18 @@ Ela estava com fome, mas afirmava que as criaturas não entravam na cela.
 
 A história chamou atenção porque combinava com o corpo e o bilhete encontrados anteriormente.
 
-| Personagem | Reação a Bianca |
+| Personagem | Reação a **Bianca** |
 |---|---|
 | **Lionel** | Acreditou que ela poderia ser uma vítima e decidiu libertá-la. |
-| **Vet** | Tentou entender há quanto tempo Bianca estava ali. |
-| **Dhorak** | Manteve a arma pronta e deixou a responsabilidade com Lionel. |
+| **Vet** | Tentou entender há quanto tempo **Bianca** estava ali. |
+| **Dhorak** | Manteve a arma pronta e deixou a responsabilidade com **Lionel**. |
 | **Kael** | Desconfiou da história e perguntou por que ela parecia tão intacta. |
 | **Yann** | Considerou tudo conveniente demais. |
 | **Oryn** | Ligou o homem de perna quebrada ao aventureiro morto-vivo. |
 
-Lionel quebrou as correntes.
+**Lionel** quebrou as correntes.
 
-Bianca passou a acompanhar o grupo.
+**Bianca** passou a acompanhar o grupo.
 
 ---
 
@@ -421,7 +421,7 @@ O cântico não mudou:
 
 Faltava sangue na cuba.
 
-**Lionel** recusou a ideia de usar Bianca ou qualquer companheiro.
+**Lionel** recusou a ideia de usar **Bianca** ou qualquer companheiro.
 
 Em vez disso, ofereceu o restante.
 
@@ -445,16 +445,16 @@ Então uma voz veio da pedra, do chão e das paredes:
 > A casa observa.  
 > A casa espera.
 
-Lionel decidiu que, se alguém precisasse pagar, seria ele.
+**Lionel** decidiu que, se alguém precisasse pagar, seria ele.
 
 Ele perfurou o próprio peito.
 
 Sangrou até ficar com **um único fio de vida**.
 
-> [!danger] A escolha de Lionel
-> Lionel não apontou para Bianca.
+> [!danger] A escolha de **Lionel**
+> **Lionel** não apontou para **Bianca**.
 >
-> Não escolheu Yann.
+> Não escolheu **Yann**.
 >
 > Não escolheu o mais fraco.
 >
@@ -474,32 +474,32 @@ E o cântico repetiu:
 
 A jovem assustada das celas mudou de postura.
 
-Bianca começou a pressionar o grupo.
+**Bianca** começou a pressionar o grupo.
 
 Mandou que matassem alguém.
 
 Sugeriu o mais fraco.
 
-Depois apontou para Yann.
+Depois apontou para **Yann**.
 
 > [!quote]
 > “Mata esse falador.”
 
-Yann, que já defendia a opção de sacrificar Bianca, ganhou ainda mais certeza de que havia algo errado nela.
+**Yann**, que já defendia a opção de sacrificar **Bianca**, ganhou ainda mais certeza de que havia algo errado nela.
 
-Kael e Dhorak também estavam desconfiados.
+**Kael** e **Dhorak** também estavam desconfiados.
 
-Lionel continuava tentando impedir que alguém fosse executado apenas porque a casa exigia.
+**Lionel** continuava tentando impedir que alguém fosse executado apenas porque a casa exigia.
 
 O grupo estava a poucos passos de transformar o ritual numa briga entre companheiros.
 
-Então Oryn tomou uma decisão.
+Então **Oryn** tomou uma decisão.
 
 ---
 
 ## 12. O choque que revelou Bianca
 
-**Oryn** se aproximou de Bianca.
+**Oryn** se aproximou de **Bianca**.
 
 Parecia que ele iria apenas falar.
 
@@ -519,7 +519,7 @@ E outra.
 
 As fissuras correram pelo rosto, braços e corpo inteiro.
 
-> [!danger] O que aconteceu com Bianca
+> [!danger] O que aconteceu com **Bianca**
 > O corpo se partiu em pedaços.
 >
 > A jovem se desfez em pó.
@@ -528,11 +528,11 @@ As fissuras correram pelo rosto, braços e corpo inteiro.
 >
 > Não havia um cadáver comum no chão.
 
-Dhorak colocou os restos sobre o altar.
+**Dhorak** colocou os restos sobre o altar.
 
 Nada aconteceu.
 
-A casa não aceitou Bianca como a morte exigida.
+A casa não aceitou **Bianca** como a morte exigida.
 
 ---
 
@@ -584,7 +584,7 @@ Rostos surgindo e afundando antes que alguém pudesse reconhecê-los.
 
 Tudo unido numa massa enorme e impossível.
 
-> [!danger] Lorghoth
+> [!danger] **Lorghoth**
 > Não parecia uma criatura que entrou na casa.
 >
 > Parecia algo que a casa cultivou no próprio ventre.
@@ -603,9 +603,9 @@ A primeira reação foi dividida.
 
 **Vet** e **Kael** queriam fugir.
 
-Kael sabia que não conseguiria acompanhar o grupo normalmente.
+**Kael** sabia que não conseguiria acompanhar o grupo normalmente.
 
-Mesmo assim, todos tentaram ferir Lorghoth por alguns momentos.
+Mesmo assim, todos tentaram ferir **Lorghoth** por alguns momentos.
 
 | Personagem | Tentativa |
 |---|---|
@@ -613,21 +613,21 @@ Mesmo assim, todos tentaram ferir Lorghoth por alguns momentos.
 | **Oryn** | Usou fogo, reduzido pela umidade e pela carne encharcada. |
 | **Vet** | Chamou a Chama Sagrada. |
 | **Dhorak** | Tentou derrubar parte da estrutura sobre a criatura. |
-| **Yann** | Tocou a canção ligada a Walter. |
+| **Yann** | Tocou a canção ligada a **Walter**. |
 | **Lionel** | Tentou entender se aquela coisa era o coração da casa. |
 
 A canção incomodou a criatura.
 
 Mas não libertou o rosto preso dentro dela.
 
-Enquanto Lorghoth se erguia, algo mais acontecia:
+Enquanto **Lorghoth** se erguia, algo mais acontecia:
 
 - as luzes da casa falhavam;
 - as figuras do ritual desapareciam;
 - as ilusões perdiam força;
 - as paredes estremeciam.
 
-Talvez Lorghoth fosse o coração da casa.
+Talvez **Lorghoth** fosse o coração da casa.
 
 Talvez o despertar apenas estivesse destruindo tudo.
 
@@ -637,9 +637,9 @@ Ninguém tinha tempo para descobrir.
 
 ## 16. Lorghoth tenta levar Kael
 
-Antes da fuga começar de verdade, Lorghoth atacou **Kael duas vezes**.
+Antes da fuga começar de verdade, **Lorghoth** atacou **Kael duas vezes**.
 
-Kael estava:
+**Kael** estava:
 
 - com a força drenada;
 - lento;
@@ -649,7 +649,7 @@ Kael estava:
 Os dois ataques erraram.
 
 > [!success] Primeiro aviso dos dados
-> Lorghoth tentou alcançar Kael duas vezes.
+> **Lorghoth** tentou alcançar **Kael** duas vezes.
 >
 > Errou as duas.
 >
@@ -663,11 +663,11 @@ Não seria a última vez naquela noite.
 
 ## 17. Dhorak é engolido
 
-Lorghoth atingiu **Dhorak**.
+**Lorghoth** atingiu **Dhorak**.
 
 A massa de raízes, carne e mãos fechou-se ao redor dele.
 
-Dhorak caiu.
+**Dhorak** caiu.
 
 O corpo começou a afundar para dentro da criatura.
 
@@ -675,9 +675,9 @@ O corpo começou a afundar para dentro da criatura.
 
 Não foi suficiente.
 
-**Oryn** usou Mão Mágica para pegar uma poção no inventário de Dhorak e fazê-lo beber mesmo preso dentro da massa.
+**Oryn** usou Mão Mágica para pegar uma poção no inventário de **Dhorak** e fazê-lo beber mesmo preso dentro da massa.
 
-Dhorak recuperou o fôlego.
+**Dhorak** recuperou o fôlego.
 
 Entrou em Fúria.
 
@@ -689,9 +689,9 @@ Ainda assim, a criatura continuava puxando.
 
 ## 18. “Solte.”
 
-Lionel percebeu que havia rostos e restos de pessoas dentro da massa.
+**Lionel** percebeu que havia rostos e restos de pessoas dentro da massa.
 
-Talvez alguma parte de Lorghoth ainda conseguisse compreender palavras.
+Talvez alguma parte de **Lorghoth** ainda conseguisse compreender palavras.
 
 O paladino ergueu a voz.
 
@@ -702,16 +702,16 @@ E deu uma ordem simples:
 > [!quote]
 > **“Solte.”**
 
-Lorghoth obedeceu.
+**Lorghoth** obedeceu.
 
 A massa se contraiu.
 
-Dhorak foi regurgitado para fora.
+**Dhorak** foi regurgitado para fora.
 
 > [!success]
-> Lionel não derrotou Lorghoth.
+> **Lionel** não derrotou **Lorghoth**.
 >
-> Mas impediu que Dhorak virasse mais um rosto dentro da criatura.
+> Mas impediu que **Dhorak** virasse mais um rosto dentro da criatura.
 
 O grupo correu.
 
@@ -741,26 +741,26 @@ O grupo ficou dividido.
 - **Lionel**
 - **Kael**
 
-Lorghoth vinha logo atrás do segundo grupo.
+**Lorghoth** vinha logo atrás do segundo grupo.
 
-Oryn preparou o Disco Flutuante para ajudar Vet.
+**Oryn** preparou o Disco Flutuante para ajudar **Vet**.
 
-Yann espalhou objetos no corredor para atrapalhar a perseguição.
+**Yann** espalhou objetos no corredor para atrapalhar a perseguição.
 
-Dhorak e Lionel derrubaram um pilar para atrasar a criatura.
+**Dhorak** e **Lionel** derrubaram um pilar para atrasar a criatura.
 
-Então Dhorak ergueu a grade.
+Então **Dhorak** ergueu a grade.
 
 Os outros passaram.
 
 A grade caiu antes que ele atravessasse.
 
-Lionel travou o mecanismo com o próprio corpo e equipamento.
+**Lionel** travou o mecanismo com o próprio corpo e equipamento.
 
 > [!quote]
-> “Ninguém fica para trás, Dhorak.”
+> “Ninguém fica para trás, **Dhorak**.”
 
-Dhorak passou.
+**Dhorak** passou.
 
 O grupo voltou a ficar unido.
 
@@ -789,7 +789,7 @@ Cada personagem encontrou um modo diferente de avançar:
 | **Yann** | Correu pelas paredes, longe da corrente. |
 | **Kael** | Tentou avançar com o corpo enfraquecido. |
 
-Kael falhou.
+**Kael** falhou.
 
 Foi puxado pela água.
 
@@ -799,12 +799,12 @@ Bateu contra o caminho.
 
 Quase ficou para trás.
 
-Yann concedeu Inspiração Bárdica e gritou:
+**Yann** concedeu Inspiração Bárdica e gritou:
 
 > [!quote]
 > “Você não vai morrer agora depois de eu te dar a espada, né?”
 
-Kael conseguiu continuar.
+**Kael** conseguiu continuar.
 
 Mas a casa já tinha começado a contar seus erros.
 
@@ -826,18 +826,18 @@ Elas agarravam roupas, armas, tornozelos e cabelos.
 
 **Vet** abriu caminho golpeando dedos com a maça.
 
-**Dhorak** jogou uma corda para Kael, mas foi agarrado enquanto ajudava.
+**Dhorak** jogou uma corda para **Kael**, mas foi agarrado enquanto ajudava.
 
 **Kael** observou o ritmo das mãos e escolheu os espaços seguros.
 
 **Lionel** decidiu usar o escudo como uma prancha e deslizar por baixo delas.
 
-> [!note] Comentário de Oryn
+> [!note] Comentário de **Oryn**
 > “O cara quer andar de skate numa hora dessas.”
 
 A ideia funcionou.
 
-Lionel atravessou.
+**Lionel** atravessou.
 
 Só terminou um pouco atrás do restante do grupo.
 
@@ -872,7 +872,7 @@ E encontrou o caminho de volta para a região da sala de jantar.
 > [!success]
 > A casa tentou apagar o mapa.
 >
-> Lionel seguiu o que ela não conseguiu apagar:  
+> **Lionel** seguiu o que ela não conseguiu apagar:  
 > **o cheiro das próprias memórias.**
 
 ---
@@ -895,23 +895,23 @@ Depois avançaram.
 | **Yann** | Saltou e rolou sobre as cadeiras. |
 | **Oryn** | Correu e bloqueou uma cadeira com magia. |
 | **Vet** | Desviou entre os móveis. |
-| **Lionel** | Prendeu-se acima e ajudou a lançar Kael adiante. |
+| **Lionel** | Prendeu-se acima e ajudou a lançar **Kael** adiante. |
 | **Kael** | Tentou atravessar com o corpo enfraquecido. |
 
-Kael caiu.
+**Kael** caiu.
 
 Foi atingido.
 
 Acumulou outra falha.
 
-> [!danger] Kael por um fio
-> A partir daquele momento, uma nova falha significava que Kael não sairia da casa.
+> [!danger] **Kael** por um fio
+> A partir daquele momento, uma nova falha significava que **Kael** não sairia da casa.
 >
 > Não “ficaria para trás”.
 >
 > **Morreria.**
 
-Lionel usou o próprio corpo para lançá-lo além das cadeiras.
+**Lionel** usou o próprio corpo para lançá-lo além das cadeiras.
 
 A perseguição continuou.
 
@@ -923,7 +923,7 @@ A massa apareceu atrás deles.
 
 Uma boca abriu onde não deveria existir.
 
-Lorghoth vomitou:
+**Lorghoth** vomitou:
 
 - sangue escuro;
 - dentes pequenos;
@@ -936,12 +936,12 @@ A rajada atravessou o corredor.
 
 Todos tentaram desviar.
 
-Kael rolou com desvantagem.
+**Kael** rolou com desvantagem.
 
 Passou.
 
 > [!success] Mais uma vez
-> Kael já estava a uma falha da morte.
+> **Kael** já estava a uma falha da morte.
 >
 > Mesmo com o corpo enfraquecido e em posição ruim, evitou o impacto.
 >
@@ -951,7 +951,7 @@ Passou.
 
 ## 25. Carne bloqueando a saída
 
-Pedaços menores de Lorghoth apareceram à frente.
+Pedaços menores de **Lorghoth** apareceram à frente.
 
 A massa fechava o corredor.
 
@@ -968,7 +968,7 @@ Quase tudo deu errado.
 
 A criatura ficou mais difícil de atravessar a cada tentativa.
 
-Kael não podia depender da força.
+**Kael** não podia depender da força.
 
 Não podia correr.
 
@@ -988,8 +988,8 @@ Precisava de um resultado quase perfeito.
 
 Conseguiu exatamente o necessário.
 
-> [!success] A casa quase levou Kael
-> Kael estava com duas falhas.
+> [!success] A casa quase levou **Kael**
+> **Kael** estava com duas falhas.
 >
 > Uma terceira seria sua morte.
 >
@@ -997,7 +997,7 @@ Conseguiu exatamente o necessário.
 
 A casa tentou escolher sua vítima.
 
-Kael não aceitou o papel.
+**Kael** não aceitou o papel.
 
 ---
 
@@ -1011,7 +1011,7 @@ As paredes se aproximavam como mandíbulas.
 
 O espaço diminuía a cada segundo.
 
-Yann olhou para o escudo de Lionel.
+**Yann** olhou para o escudo de **Lionel**.
 
 Era grande.
 
@@ -1019,7 +1019,7 @@ Resistente.
 
 Talvez conseguisse travar a passagem.
 
-Lionel entendeu imediatamente o preço.
+**Lionel** entendeu imediatamente o preço.
 
 Aquele não era apenas um escudo.
 
@@ -1042,7 +1042,7 @@ Mesmo assim, colocou o escudo entre as paredes.
 
 Um por um, todos atravessaram.
 
-Kael ficou entre os últimos.
+**Kael** ficou entre os últimos.
 
 Continuava a uma falha da morte.
 
@@ -1052,8 +1052,8 @@ Recebeu Inspiração Bárdica.
 
 E passou.
 
-> [!success] Kael sobrevive outra vez
-> Pela segunda vez na fuga, Kael chegou a uma rolagem em que falhar significava morrer.
+> [!success] **Kael** sobrevive outra vez
+> Pela segunda vez na fuga, **Kael** chegou a uma rolagem em que falhar significava morrer.
 >
 > Pela segunda vez, saiu vivo no limite.
 
@@ -1069,7 +1069,7 @@ O som foi seco.
 
 Final.
 
-Lionel olhou para as duas metades presas no fechamento.
+**Lionel** olhou para as duas metades presas no fechamento.
 
 Os olhos se encheram.
 
@@ -1090,7 +1090,7 @@ Trouxe as duas de volta.
 >
 > **A herança não ficou para trás.**
 
-As duas partes foram devolvidas a Lionel.
+As duas partes foram devolvidas a **Lionel**.
 
 O escudo não podia mais protegê-lo.
 
@@ -1102,17 +1102,17 @@ Mas ainda estava com ele.
 
 A parede fecha atrás do grupo.
 
-Do outro lado, Lorghoth se debate contra pedra, madeira e carne.
+Do outro lado, **Lorghoth** se debate contra pedra, madeira e carne.
 
-Oryn deixa as duas metades do escudo diante de Lionel.
+**Oryn** deixa as duas metades do escudo diante de **Lionel**.
 
-Kael mal consegue permanecer em pé.
+**Kael** mal consegue permanecer em pé.
 
-Dhorak ainda carrega no corpo a lembrança de ter sido engolido.
+**Dhorak** ainda carrega no corpo a lembrança de ter sido engolido.
 
-Vet tenta manter todos avançando.
+**Vet** tenta manter todos avançando.
 
-Yann olha para a próxima sala.
+**Yann** olha para a próxima sala.
 
 E então o grupo reconhece o lugar.
 
@@ -1140,15 +1140,15 @@ A porta da frente está perto.
 
 ## Kael — o homem que a casa não conseguiu levar
 
-Kael passou a sessão inteira como o alvo mais fácil.
+**Kael** passou a sessão inteira como o alvo mais fácil.
 
 Ele começou sem força.
 
 Não conseguia correr direito.
 
-Lorghoth atacou duas vezes e errou.
+**Lorghoth** atacou duas vezes e errou.
 
-Na fuga, Kael:
+Na fuga, **Kael**:
 
 - quase se afogou;
 - foi derrubado pelas cadeiras;
@@ -1157,7 +1157,7 @@ Na fuga, Kael:
 - passou pela escada fechando com ajuda e Inspiração.
 
 > [!success]
-> A casa teve várias oportunidades de levar Kael.
+> A casa teve várias oportunidades de levar **Kael**.
 >
 > Em duas delas, uma única falha significava morte.
 >
@@ -1171,7 +1171,7 @@ Foi leitura do perigo, ajuda do grupo, sorte e teimosia.
 
 ## Lionel — duas formas de sacrifício
 
-Lionel tentou entregar a própria vida no altar.
+**Lionel** tentou entregar a própria vida no altar.
 
 A casa não aceitou porque ele ainda respirava.
 
@@ -1179,14 +1179,14 @@ Depois, na fuga, ele entregou outra coisa:
 
 **o escudo de sua família.**
 
-O primeiro sacrifício quase matou Lionel.
+O primeiro sacrifício quase matou **Lionel**.
 
 O segundo salvou todos.
 
 > [!note]
 > A casa pediu uma vida.
 >
-> Lionel se recusou a escolher a vida de outra pessoa.
+> **Lionel** se recusou a escolher a vida de outra pessoa.
 >
 > No fim, pagou com algo que carregava o nome da própria família.
 
@@ -1194,23 +1194,23 @@ O segundo salvou todos.
 
 ## Oryn e Yann — a pergunta ficou aberta
 
-Oryn viu:
+**Oryn** viu:
 
-- o sangue de Yann ser rejeitado;
-- Yann beber sangue da cuba;
+- o sangue de **Yann** ser rejeitado;
+- **Yann** beber sangue da cuba;
 - o pulso anormalmente lento;
 - as negativas sem explicação.
 
-Ele perguntou diretamente se Yann era vampiro.
+Ele perguntou diretamente se **Yann** era vampiro.
 
-Yann negou.
+**Yann** negou.
 
 A conversa terminou.
 
 A suspeita, não.
 
 > [!warning]
-> O grupo talvez ainda não saiba o que Yann é.
+> O grupo talvez ainda não saiba o que **Yann** é.
 >
 > Mas já sabe que ele não está contando tudo.
 
@@ -1218,14 +1218,14 @@ A suspeita, não.
 
 ## Dhorak e Lionel — ninguém fica para trás
 
-Dhorak foi engolido por Lorghoth.
+**Dhorak** foi engolido por **Lorghoth**.
 
-Lionel o salvou com uma ordem.
+**Lionel** o salvou com uma ordem.
 
-Mais tarde, quando a grade quase separou Dhorak do grupo, Lionel ficou para segurá-la.
+Mais tarde, quando a grade quase separou **Dhorak** do grupo, **Lionel** ficou para segurá-la.
 
 > [!quote]
-> “Ninguém fica para trás, Dhorak.”
+> “Ninguém fica para trás, **Dhorak**.”
 
 O grupo escapou junto porque esse princípio foi mantido quando seria mais fácil correr.
 
@@ -1233,13 +1233,13 @@ O grupo escapou junto porque esse princípio foi mantido quando seria mais fáci
 
 ## Vet e Bianca — compaixão usada contra o grupo
 
-Vet e Lionel trataram Bianca como uma possível vítima.
+**Vet** e **Lionel** trataram **Bianca** como uma possível vítima.
 
 Isso não foi ingenuidade simples.
 
 Era a decisão de não matar uma jovem assustada só porque a casa pedia.
 
-Quando Bianca se desfez, ficou claro que havia algo errado nela.
+Quando **Bianca** se desfez, ficou claro que havia algo errado nela.
 
 Mas o erro não foi tentar ajudá-la.
 
@@ -1255,15 +1255,15 @@ Mas o erro não foi tentar ajudá-la.
 | Descoberta | O que isso muda |
 |---|---|
 | A cuba aceitava sangue de alguns personagens. | O ritual reconhecia sangue vivo. |
-| O sangue de Yann foi cuspido para fora. | A casa não o considerou uma oferta válida. |
+| O sangue de **Yann** foi cuspido para fora. | A casa não o considerou uma oferta válida. |
 | A grade podia ser aberta por alavanca. | A oferta de sangue também era uma forma de manipulação. |
-| Bianca tinha uma história ligada ao aventureiro ferido. | Os acontecimentos e bilhetes do porão estavam conectados. |
-| Bianca se desfez em pó quando atingida. | Ela não era uma jovem comum. |
-| A casa não aceitou Bianca como sacrifício. | O ritual exigia uma vida que considerasse verdadeira. |
-| Lorghoth despertou quando “a carne foi negada”. | Recusar o sacrifício ativou a maior ameaça da casa. |
-| Um rosto de bebê apareceu em Lorghoth. | Walter parece estar ligado à criatura. |
-| A casa começou a falhar quando Lorghoth surgiu. | A criatura pode estar ligada à força ou ao coração da casa. |
-| Lionel conseguiu ordenar que Lorghoth soltasse Dhorak. | Alguma parte da criatura compreendia comandos. |
+| **Bianca** tinha uma história ligada ao aventureiro ferido. | Os acontecimentos e bilhetes do porão estavam conectados. |
+| **Bianca** se desfez em pó quando atingida. | Ela não era uma jovem comum. |
+| A casa não aceitou **Bianca** como sacrifício. | O ritual exigia uma vida que considerasse verdadeira. |
+| **Lorghoth** despertou quando “a carne foi negada”. | Recusar o sacrifício ativou a maior ameaça da casa. |
+| Um rosto de bebê apareceu em **Lorghoth**. | **Walter** parece estar ligado à criatura. |
+| A casa começou a falhar quando **Lorghoth** surgiu. | A criatura pode estar ligada à força ou ao coração da casa. |
+| **Lionel** conseguiu ordenar que **Lorghoth** soltasse **Dhorak**. | Alguma parte da criatura compreendia comandos. |
 | A casa mudou completamente durante a fuga. | Ela pode alterar seus próprios cômodos e atacar diretamente. |
 | O grupo chegou à sala dos lobos. | A saída está próxima, mas a fuga ainda não terminou. |
 
@@ -1273,12 +1273,12 @@ Mas o erro não foi tentar ajudá-la.
 
 | Item ou consequência | Estado |
 |---|---|
-| **Escudo Roarshield** | Partido em duas metades, recuperado e devolvido a Lionel. |
+| **Escudo Roarshield** | Partido em duas metades, recuperado e devolvido a **Lionel**. |
 | **Força de Kael** | Continua reduzida até descanso adequado. |
 | **Equipamento de Kael** | Parte foi abandonada para aliviar peso. |
-| **Espada curta prateada** | Kael tentou mantê-la. |
-| **Colar de Biscuit** | Kael tentou mantê-lo. |
-| **Poção de Dhorak** | Usada por Oryn enquanto Dhorak estava dentro de Lorghoth. |
+| **Espada curta prateada** | **Kael** tentou mantê-la. |
+| **Colar de Biscuit** | **Kael** tentou mantê-lo. |
+| **Poção de Dhorak** | Usada por **Oryn** enquanto **Dhorak** estava dentro de **Lorghoth**. |
 | **Bianca** | Desfeita em pó e pedaços; restos rejeitados pelo altar. |
 | **Lorghoth** | Desperto e não derrotado. |
 | **Casa da Morte** | Em colapso ou transformação demoníaca. |
