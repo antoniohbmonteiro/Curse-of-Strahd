@@ -13,10 +13,10 @@
 
 ## Última sessão
 
-> [!summary] Sessão 04 — A Casa Ouviu
-> Vocês removeram a coisa que se movia dentro da veia de **Dhorak**, enfrentaram mortos-vivos e sombras no porão, leram a carta de **Elizabeth** e descobriram que **Walter** foi levado para baixo como oferta. O ritual não chamou **Strahd**. A carta diz que **a casa ouviu**.
+> [!summary] Sessão 05 — Um Deve Morrer
+> Vocês encontraram **Bianca** nas celas e uma câmara onde a casa exigia que alguém morresse. Depois que a oferta foi rejeitada, **Lorghoth** despertou. A fuga quase levou **Kael**, **Dhorak** foi engolido e salvo por Lionel, e o **escudo Roarshield** se partiu para manter o caminho aberto. Vocês chegaram à sala dos lobos — mas ainda estão dentro da casa.
 >
-> **Ler recap:** [[Portal_dos_Jogadores/Sessoes/Sessao 04 - Recap dos Jogadores\|Sessão 04 — A Casa Ouviu]]
+> **Ler recap:** [[Portal_dos_Jogadores/Sessoes/Sessao 05 - Recap dos Jogadores\|Sessão 05 — Um Deve Morrer]]
 
 ---
 
@@ -33,6 +33,7 @@
 
 ## Diário da campanha
 
+- [[Portal_dos_Jogadores/Sessoes/Sessao 05 - Recap dos Jogadores\|Sessão 05 — Um Deve Morrer]]
 - [[Portal_dos_Jogadores/Sessoes/Sessao 04 - Recap dos Jogadores\|Sessão 04 — A Casa Ouviu]]
 - [[Portal_dos_Jogadores/Sessoes/Sessao 03 - Recap dos Jogadores\|Sessão 03 — Os Ossos e o Porão]]
 - [[Portal_dos_Jogadores/Sessoes/Sessao 02 - Recap dos Jogadores\|Sessão 02 — A Voz no Berço]]
