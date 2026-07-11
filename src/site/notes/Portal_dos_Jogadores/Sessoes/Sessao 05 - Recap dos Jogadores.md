@@ -1039,7 +1039,7 @@ Uma parte de quem ele era.
 
 ![Sessao05_Escudo_Roarshield_Partido.png](/img/user/Portal_dos_Jogadores/Imagens/Sessao05_Escudo_Roarshield_Partido.png)
 
-*O escudo Roarshield — herança da família de Lionel, pouco antes de ser usado para manter a passagem aberta.*
+*O escudo Roarshield — herança da família de Lionel, pouco depois de ser usado para manter a passagem aberta.*
 
 Mesmo assim, colocou o escudo entre as paredes.
 
