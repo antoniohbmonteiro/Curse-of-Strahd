@@ -200,17 +200,6 @@ Não estavam.
 
 ## 3. A cuba que queria sangue
 
-
-![Imagens/Sessao05_Altar_de_Sangue.png](/img/user/Portal_dos_Jogadores/Imagens/Sessao05_Altar_de_Sangue.png)
-
-> [!info] A cuba ritual
-> A inscrição dizia:
->
-> **“Sangue abre o caminho.  
-> A casa recebe o que vive.”**
-
-
-
 Depois da criatura, o grupo encontrou uma sala com nichos, ossos pequenos, lâminas antigas e uma grade de ferro bloqueando o caminho.
 
 Ao lado da grade havia uma cuba escura presa à parede por garras de metal.
@@ -222,6 +211,10 @@ Acima, uma inscrição:
 > [!danger] Inscrição
 > **Sangue abre o caminho.**  
 > **A casa recebe o que vive.**
+
+![[Portal_dos_Jogadores/Imagens/Sessao 05 - Altar de Sangue.png\|Portal_dos_Jogadores/Imagens/Sessao 05 - Altar de Sangue.png]]
+
+*O altar que exigia sangue — e revelou que a casa escolhia o que aceitava.*
 
 **Oryn** ofereceu o próprio sangue primeiro.
 
@@ -575,14 +568,6 @@ E algo começou a subir.
 
 ## 14. Lorghoth desperta
 
-
-![Imagens/Sessao05_Lorghoth.png](/img/user/Portal_dos_Jogadores/Imagens/Sessao05_Lorghoth.png)
-
-> [!danger] Lorghoth
-> Quando a carne foi negada, a água se abriu e **Lorghoth** despertou.
-
-
-
 Primeiro vieram as raízes.
 
 Negras.
@@ -607,6 +592,10 @@ Tudo unido numa massa enorme e impossível.
 > Não parecia uma criatura que entrou na casa.
 >
 > Parecia algo que a casa cultivou no próprio ventre.
+
+![[Portal_dos_Jogadores/Imagens/Sessao 05 - Lorghoth.png\|Portal_dos_Jogadores/Imagens/Sessao 05 - Lorghoth.png]]
+
+*Lorghoth, erguendo-se da água e da carne acumulada sob a casa.*
 
 Então, no centro da massa, surgiu um rosto.
 
@@ -1048,6 +1037,10 @@ Uma herança.
 
 Uma parte de quem ele era.
 
+![[Portal_dos_Jogadores/Imagens/Sessao 05 - Escudo Roarshield.png\|Portal_dos_Jogadores/Imagens/Sessao 05 - Escudo Roarshield.png]]
+
+*O escudo Roarshield — herança da família de Lionel, pouco antes de ser usado para manter a passagem aberta.*
+
 Mesmo assim, colocou o escudo entre as paredes.
 
 > [!danger] A escolha
@@ -1079,16 +1072,6 @@ E passou.
 ---
 
 ## 27. O escudo Roarshield se parte
-
-
-![Imagens/Sessao05_Escudo_Roarshield_Partido.png](/img/user/Portal_dos_Jogadores/Imagens/Sessao05_Escudo_Roarshield_Partido.png)
-
-> [!warning] O preço da fuga
-> O **escudo Roarshield** segurou a passagem tempo suficiente para todos atravessarem.
->
-> Depois, se partiu em duas metades.
-
-
 
 Quando o último personagem atravessou, as paredes venceram.
 
@@ -1260,7 +1243,7 @@ O grupo escapou junto porque esse princípio foi mantido quando seria mais fáci
 
 ---
 
-## Vet e Bianca — compaixão usada contra o grupo
+## Vet, Lionel e Bianca — compaixão usada contra o grupo
 
 **Vet** e **Lionel** trataram **Bianca** como uma possível vítima.
 
@@ -1311,6 +1294,35 @@ Mas o erro não foi tentar ajudá-la.
 | **Bianca** | Desfeita em pó e pedaços; restos rejeitados pelo altar. |
 | **Lorghoth** | Desperto e não derrotado. |
 | **Casa da Morte** | Em colapso ou transformação demoníaca. |
+
+---
+
+# O que a casa ensinou
+
+> [!tip] Lições compradas com sangue, sorte e um escudo
+> Nem toda ameaça foi colocada no caminho para ser derrotada ali mesmo.  
+> Algumas existem para testar se vocês reconhecem **quando lutar**, **quando recuar** e **quando usar tudo o que já descobriram**.
+
+| Lição | O que a sessão mostrou |
+|---|---|
+| **Nem toda batalha precisa ser vencida** | Lorghoth não parecia um inimigo para ser derrubado naquele momento. Continuar lutando teria dado à casa exatamente o tempo que ela precisava. |
+| **Fugir também é vencer** | O grupo não derrotou Lorghoth, mas salvou Dhorak, permaneceu unido e chegou perto da saída. Sobreviver era o objetivo real. |
+| **Bilhetes não são decoração** | O aventureiro ferido já havia escrito que, quando “a coisa” acordou, **a névoa afinou, as portas se abriram e ele viu a rua**. A pista para a fuga já estava com vocês. |
+| **Reler pistas muda decisões** | Informações antigas podem ganhar outro significado depois de uma revelação. O bilhete parecia apenas o relato de uma vítima; depois do despertar de Lorghoth, virou quase um mapa do que aconteceria. |
+| **A casa quer decisões apressadas** | O altar, Bianca e o cântico pressionaram o grupo a escolher uma vítima antes de entender o que estava acontecendo. |
+| **Criatividade vale mais que dano** | Comando libertou Dhorak, Mão Mágica recuperou o escudo, o Disco Flutuante carregou aliados e a Inspiração manteve Kael vivo. |
+| **Ajudar alguém altera o resultado** | Kael não saiu sozinho. Corda, empurrões, inspiração, proteção e o escudo de Lionel transformaram rolagens impossíveis em sobrevivência. |
+
+> [!quote]
+> O bilhete dizia que a saída apareceu quando a coisa acordou.
+>
+> A casa entregou a pista.  
+> Só não garantiu que vocês teriam tempo de entendê-la.
+
+> [!note] Regra não escrita da campanha
+> Quando o mestre entrega um bilhete, uma carta ou um handout...
+>
+> **talvez seja uma boa ideia reler depois.**
 
 ---
 
