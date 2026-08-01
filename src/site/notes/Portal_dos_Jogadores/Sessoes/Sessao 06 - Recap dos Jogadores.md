@@ -997,7 +997,7 @@ E muito acima da vila estava o que realmente dominava a paisagem:
 
 # Última imagem da sessão
 
-O grupo parou na entrada da [[Vila de Baróvia\|Vila de Baróvia]].
+O grupo parou na entrada da [[04_Locais/Vila de Baróvia/Vila de Baróvia\|Vila de Baróvia]].
 
 | Personagem | Como chegou à vila |
 |---|---|
