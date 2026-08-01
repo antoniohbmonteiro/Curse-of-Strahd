@@ -155,6 +155,10 @@ Enquanto isso, **Oryn** realizou um ritual para conversar com um rato.
 
 Depois de receber comida, o animal revelou que quem cuidava da vila estava morto e que o corpo continuava dentro de uma casa grande.
 
+![Portal_dos_Jogadores/Imagens/Sessao07/04-oryn-conversando-com-rato.png](/img/user/Portal_dos_Jogadores/Imagens/Sessao07/04-oryn-conversando-com-rato.png)
+
+*Às vezes, a melhor fonte de informação da vila cabe na palma da mão — e aceita pagamento em comida.*
+
 **Oryn** e **Vet** seguiram até a residência.
 
 Encontraram:
@@ -189,6 +193,10 @@ Foi o cabelo.
 > **Ireena** nunca havia visto outra pessoa com uma tonalidade tão parecida com a sua.
 >
 > **Vet** também não soube explicar a coincidência.
+
+![Portal_dos_Jogadores/Imagens/Sessao07/05-vet-e-ireena.png](/img/user/Portal_dos_Jogadores/Imagens/Sessao07/05-vet-e-ireena.png)
+
+*Entre desconfiança, luto e uma semelhança impossível de ignorar, começou a primeira conversa entre **Vet** e **Ireena**.*
 
 **Ireena** contou que lobos atacavam a casa repetidamente e que seu pai acumulou ferimentos, medo e noites sem descanso. Ele morreu antes que conseguissem levá-lo à igreja.
 
