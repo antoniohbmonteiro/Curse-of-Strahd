@@ -13,10 +13,10 @@
 
 ## Última sessão
 
-> [!summary] Sessão 06 — A Estrada sem Sol
-> Vocês escaparam da **Casa da Morte**, mas a casa arrancou quase todos os equipamentos antes de desaparecer na névoa. Depois de atravessarem os portões de **Baróvia**, encontraram uma carroça destruída, um animal de carga morto e um baú lacrado destinado a **B. Cantemir**, dono do empório da vila. O primeiro acampamento trouxe descanso, novas suspeitas sobre **Yann** e uma prece sem resposta clara para **Vet**. A sessão terminou na entrada da **Vila de Baróvia**, sob a presença distante do **Castelo Sobre as Montanhas**.
+> [!summary] Sessão 07 — Pai, Estou com Fome
+> O grupo entrou na **Vila de Baróvia**, entregou a carga a **B. Cantemir** e descobriu que o burgomestre havia morrido sem ser enterrado. **Vet** e **Oryn** conheceram **Ireena**, enquanto a taverna **Sangue da Vinha** apresentou **Ismark**, algumas mulheres **Vistani** e vinho suficiente para separar a party. No caminho até a igreja, **Vet**, **Oryn** e **Kael** descobriram que **Strahd von Zarovich** é um lorde vampiro que persegue **Ireena**. A sessão terminou com o funeral começando, **Yann** e **Dhorak** bêbados pela vila e uma voz gritando debaixo do templo: **“Pai! Estou com fome!”**
 >
-> **Ler recap:** [[Portal_dos_Jogadores/Sessoes/Sessao 06 - Recap dos Jogadores\|Sessão 06 — A Estrada sem Sol]]
+> **Ler recap:** [[Portal_dos_Jogadores/Sessoes/Sessao 07 - Recap dos Jogadores\|Sessão 07 — Pai, Estou com Fome]]
 
 ---
 
@@ -33,6 +33,7 @@
 
 ## Diário da campanha
 
+- [[Portal_dos_Jogadores/Sessoes/Sessao 07 - Recap dos Jogadores\|Sessão 07 — Pai, Estou com Fome]]
 - [[Portal_dos_Jogadores/Sessoes/Sessao 06 - Recap dos Jogadores\|Sessão 06 — A Estrada sem Sol]]
 - [[Portal_dos_Jogadores/Sessoes/Sessao 05 - Recap dos Jogadores\|Sessão 05 — Um Deve Morrer]]
 - [[Portal_dos_Jogadores/Sessoes/Sessao 04 - Recap dos Jogadores\|Sessão 04 — A Casa Ouviu]]
