@@ -13,10 +13,10 @@
 
 ## Última sessão
 
-> [!summary] Sessão 07 — Pai, Estou com Fome
-> O grupo entrou na **Vila de Baróvia**, entregou a carga a **B. Cantemir** e descobriu que o burgomestre havia morrido sem ser enterrado. **Vet** e **Oryn** conheceram **Ireena**, enquanto a taverna **Sangue da Vinha** apresentou **Ismark**, algumas mulheres **Vistani** e vinho suficiente para separar a party. No caminho até a igreja, **Vet**, **Oryn** e **Kael** descobriram que **Strahd von Zarovich** é um lorde vampiro que persegue **Ireena**. A sessão terminou com o funeral começando, **Yann** e **Dhorak** bêbados pela vila e uma voz gritando debaixo do templo: **“Pai! Estou com fome!”**
+> [!summary] Sessão 08 — Agora Eu Não Sinto Mais
+> Na igreja da **Vila de Baróvia**, o grupo precisou decidir o destino de **Doru**, filho amaldiçoado de **Donavich**, preso havia anos por uma fome de sangue que começou após seu encontro com **Strahd**. Sem uma cura conhecida, **Donavich** aceitou que manter o filho acorrentado e faminto já não era misericórdia. **Kael** e **Oryn** encerraram seu sofrimento, enquanto **Lionel** gravou o nome de **Doru** no verso quebrado do **Roarshield**. Mais tarde, uma velha chamada **Morganta** apareceu pelas ruas vendendo **Tortas dos Sonhos** encantadas — e **Dhorak** descobriu que, pelo menos durante uma noite, elas cumprem exatamente o que prometem.
 >
-> **Ler recap:** [[Portal_dos_Jogadores/Sessoes/Sessao 07 - Recap dos Jogadores\|Sessão 07 — Pai, Estou com Fome]]
+> **Ler recap:** [[Portal_dos_Jogadores/Sessoes/Sessao 08 - Recap dos Jogadores\|Sessão 08 — Agora Eu Não Sinto Mais]]
 
 ---
 
@@ -33,6 +33,7 @@
 
 ## Diário da campanha
 
+- [[Portal_dos_Jogadores/Sessoes/Sessao 08 - Recap dos Jogadores\|Sessão 08 — Agora Eu Não Sinto Mais]]
 - [[Portal_dos_Jogadores/Sessoes/Sessao 07 - Recap dos Jogadores\|Sessão 07 — Pai, Estou com Fome]]
 - [[Portal_dos_Jogadores/Sessoes/Sessao 06 - Recap dos Jogadores\|Sessão 06 — A Estrada sem Sol]]
 - [[Portal_dos_Jogadores/Sessoes/Sessao 05 - Recap dos Jogadores\|Sessão 05 — Um Deve Morrer]]
