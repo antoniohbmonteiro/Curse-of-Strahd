@@ -13,10 +13,10 @@
 
 ## Última sessão
 
-> [!summary] Sessão 08 — Agora Eu Não Sinto Mais
-> Na igreja da **Vila de Baróvia**, o grupo precisou decidir o destino de **Doru**, filho amaldiçoado de **Donavich**, preso havia anos por uma fome de sangue que começou após seu encontro com **Strahd**. Sem uma cura conhecida, **Donavich** aceitou que manter o filho acorrentado e faminto já não era misericórdia. **Kael** e **Oryn** encerraram seu sofrimento, enquanto **Lionel** gravou o nome de **Doru** no verso quebrado do **Roarshield**. Mais tarde, uma velha chamada **Morganta** apareceu pelas ruas vendendo **Tortas dos Sonhos** encantadas — e **Dhorak** descobriu que, pelo menos durante uma noite, elas cumprem exatamente o que prometem.
+> [!summary] Sessão 09 — A Felicidade Tem um Preço
+> A manhã começou com **Dhorak feliz demais** depois de sua primeira **Torta dos Sonhos**. Antes do fim do dia, o grupo enterrou **Kolyan** e **Doru**, aceitou escoltar **Ireena** até **Vallaki**, impediu **Morganta** de receber uma criança como pagamento e viu Dhorak admitir que queria outra porção mais do que deveria. **B. Cantemir** ainda apontou o caminho para aventureiros desaparecidos ao sul da vila. O grupo decidiu investigar antes de partir — e, meia hora depois, os lobos começaram a uivar.
 >
-> **Ler recap:** [[Portal_dos_Jogadores/Sessoes/Sessao 08 - Recap dos Jogadores\|Sessão 08 — Agora Eu Não Sinto Mais]]
+> **Ler recap:** [[Portal_dos_Jogadores/Sessoes/Sessao 09 - Recap dos Jogadores\|Sessão 09 — A Felicidade Tem um Preço]]
 
 ---
 
@@ -33,6 +33,7 @@
 
 ## Diário da campanha
 
+- [[Portal_dos_Jogadores/Sessoes/Sessao 09 - Recap dos Jogadores\|Sessão 09 — A Felicidade Tem um Preço]]
 - [[Portal_dos_Jogadores/Sessoes/Sessao 08 - Recap dos Jogadores\|Sessão 08 — Agora Eu Não Sinto Mais]]
 - [[Portal_dos_Jogadores/Sessoes/Sessao 07 - Recap dos Jogadores\|Sessão 07 — Pai, Estou com Fome]]
 - [[Portal_dos_Jogadores/Sessoes/Sessao 06 - Recap dos Jogadores\|Sessão 06 — A Estrada sem Sol]]
