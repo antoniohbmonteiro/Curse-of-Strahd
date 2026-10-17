@@ -13,10 +13,10 @@
 
 ## Última sessão
 
-> [!summary] Sessão 10 — O Chão Escuta
-> Os uivos ao sul da Vila de Baróvia viraram um cerco. **Vet** respondeu com uma explosão de luz radiante, **Dhorak** derrubou a maior fera e um único lobo escapou com a orelha cortada. Na caverna indicada por **B. Cantemir**, o grupo descobriu predadores que caçavam pelas vibrações do solo. **Lionel** usou isso contra eles, transformando-se em isca e saltando para trás no instante do ataque. Depois da vitória, entre armas, ouro e consumíveis mágicos, veio a descoberta mais importante: os aventureiros mortos eram de **Waterdeep, Faerûn**.
+> [!summary] Sessão 11 — Quando o Passado Encontra Baróvia
+> Na primeira noite fora da vila, Lionel deu sepultura aos mortos e o grupo improvisou um acampamento. Então **Aldren Ashmane**, velho amigo de Lionel, chegou acompanhado de **Severin Voss**. Uma conversa quase resolveu tudo em paz, até uma flecha envenenada iniciar a luta. **Aldren sobreviveu graças a Yann**, e o grupo conseguiu derrotar os agressores, mas **Oryn tentou conjurar gelo e produziu fogo**. Severin fugiu ferido, e a party decidiu persegui-lo.
 >
-> **Ler recap:** [[Portal_dos_Jogadores/Sessoes/Sessao 10 - Recap dos Jogadores\|Sessão 10 — O Chão Escuta]]
+> **Ler recap:** [[Portal_dos_Jogadores/Sessoes/Sessao 11 - Recap dos Jogadores\|Sessão 11 — Quando o Passado Encontra Baróvia]]
 
 ---
 
@@ -33,6 +33,7 @@
 
 ## Diário da campanha
 
+- [[Portal_dos_Jogadores/Sessoes/Sessao 11 - Recap dos Jogadores\|Sessão 11 — Quando o Passado Encontra Baróvia]]
 - [[Portal_dos_Jogadores/Sessoes/Sessao 10 - Recap dos Jogadores\|Sessão 10 — O Chão Escuta]]
 - [[Portal_dos_Jogadores/Sessoes/Sessao 09 - Recap dos Jogadores\|Sessão 09 — A Felicidade Tem um Preço]]
 - [[Portal_dos_Jogadores/Sessoes/Sessao 08 - Recap dos Jogadores\|Sessão 08 — Agora Eu Não Sinto Mais]]
